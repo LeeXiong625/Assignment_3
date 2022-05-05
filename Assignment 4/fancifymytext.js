@@ -1,5 +1,5 @@
 function bigger(){
-    alert("Hello, World");
+    //alert("Hello, World");
     var words = document.getElementById("words");
     words.style.fontSize="24pt";
 }
